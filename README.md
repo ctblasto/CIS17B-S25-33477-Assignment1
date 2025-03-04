@@ -10,7 +10,7 @@
 To compile and run, use the command 
 
 '''bash
-g++main.cpp -o program
+g++ Assignment1.cpp -o program
 ./program
 
 Save the file.
